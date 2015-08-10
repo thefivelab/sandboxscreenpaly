@@ -6,3 +6,6 @@ Who are you?
 
 JOE
 someone
+
+JULIA
+Hello guys !
