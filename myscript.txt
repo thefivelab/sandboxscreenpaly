@@ -31,8 +31,6 @@ Now I try to go on a third brnch
 
 It seems I am on a third branch now
 
-<<<<<<< Updated upstream
 and just tried the stash stuff
-=======
-and i really want to stash something.
->>>>>>> Stashed changes
+
+This is a stashed change
